@@ -1,0 +1,37 @@
+Class1:
+what and why Terraform , what is IAC and Its advantages and use case , how infra works?
+class2:
+Mutable and immutable infra in terraform , architeture and workflow
+class3:
+TF Blocks and Terraform workfow explination 
+class5:
+Terraform – Local File Resource Example with Full Workflow and local provider
+class6: 
+resoruce block
+class9:
+count and foreach
+class10: 
+meta raguments and usecase and implicit dependency
+class11:
+depends_on
+class12:
+life-cycle-meta-arg
+class13:
+ec2-usecase and vpc
+class14 and 15,16,17:
+variables and rules and usecase...vpc variables 
+class20:
+workspaces
+class22:
+Datasources and Terrform functions
+class23:
+Dynamic blocks and provisioners 
+class24:
+remotestate
+class25:
+modules
+
+
+
+
+
